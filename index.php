@@ -1,6 +1,6 @@
 <<?php 
 
-echo infophp();
+echo ´hola´
 
 
  ?>
